@@ -23,3 +23,17 @@ so saving the precious time of their customer by saving all the hectic running a
 * SEABORN
 * MATPLOTLIB
 * SKLEARN
+
+## PROCESS INCLUDED
+![process](https://github.com/coolmancommet/dataanalysisdata/blob/master/process.png)
+
+## ALGORITHMS USED
+![algos](https://github.com/coolmancommet/dataanalysisdata/blob/master/cpmarision.png)
+
+##### For more information see the documentation in the repo and the presentation attached-
+![presentation](https://github.com/coolmancommet/dataanalysisdata/blob/master/LOAN%20%20STATUS%20%20FORETELLER(1).pptx)
+
+
+![documentation](https://github.com/coolmancommet/dataanalysisdata/blob/master/LOAN%20STATUS%20FORETELLER%20REPORT%20(DOCUMENTATION).pdf)
+
+![thankyou](https://media.tenor.com/images/19ff735c691355bae5052ffb7f9fd413/tenor.gif)
